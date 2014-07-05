@@ -7,6 +7,8 @@ release_platforms:
   - precise
   - quantal
   - raring
+  debian:
+  - wheezy
 repositories:
   abb:
     doc:
